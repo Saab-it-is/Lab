@@ -13,14 +13,14 @@ Each example should be:
 
 ```
 examples/
+├── hello-world/
+│   ├── README.md
+│   ├── hello.py
+│   ├── hello.js
+│   └── hello.sh
 ├── python-basics/
 │   ├── README.md
-│   ├── hello_world.py
 │   └── variables.py
-├── javascript-async/
-│   ├── README.md
-│   ├── promises.js
-│   └── async-await.js
 ```
 
 ## Contributing

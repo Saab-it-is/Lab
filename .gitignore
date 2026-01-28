@@ -30,7 +30,6 @@ yarn.lock
 *.out
 *.exe
 *.dll
-*.so
 *.dylib
 a.out
 
